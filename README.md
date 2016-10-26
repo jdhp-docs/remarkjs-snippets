@@ -1,3 +1,0 @@
-# Remark.js skeleton
-
-TODO...
