@@ -28,7 +28,7 @@ notes...
 
 class: center, middle
 
-## Licence
+## License
 
 <br />
 
