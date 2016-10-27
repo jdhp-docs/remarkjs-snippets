@@ -35,6 +35,7 @@ class: center, middle
 .center[<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="figs/cc_by_sa.svg" width="200"></a>]
 
 .licence[
-Ce document est mis à disposition selon les termes de la licence<br />
-[Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
+This document is provided under the terms and conditions of the<br />
+[Creative Commons 4.0 (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+license.
 ]
