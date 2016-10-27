@@ -7,7 +7,6 @@ all: $(FILE_BASE_NAME).pdf
 .PHONY : all clean init slides notes handout jdhp publish
 
 SRCSLIDES=main.html\
-		  content/*.html\
 		  content/*.md\
 		  figs/*
 
@@ -16,7 +15,7 @@ SRCSLIDES=main.html\
 slides: $(FILE_BASE_NAME).pdf
 
 $(FILE_BASE_NAME).pdf: $(SRCSLIDES)
-	@eecho "Not available yet"           # TODO
+	@echo "Not available yet"           # TODO
 
 # PUBLISH #####################################################################
 
