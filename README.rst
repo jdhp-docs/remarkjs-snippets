@@ -1,10 +1,10 @@
-====
-TODO_DOCUMENT_TITLE
-====
+==================
+Remark.js snippets
+==================
 
-TODO_COPYRIGHT_NOTICE
+Copyright (c) 2016 Jérémie DECOCK (www.jdhp.org)
 
-* Read online: TODO_DOCUMENT_HTML_URL
-* PDF version: TODO_DOCUMENT_PDF_URL
-* Source code: TODO_DOCUMENT_GITHUB_URL
+* Read online: http://www.jdhp.org/docs/remarkjs_snippets/remarkjs_snippets.html
+* PDF version: http://www.jdhp.org/dl/pdf/remarkjs_snippets.pdf
+* Source code: https://github.com/jdhp-docs/remarkjs-snippets
 

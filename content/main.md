@@ -4,12 +4,12 @@ class: center, middle, inverse
 
 ---
 
-# TODO_DOCUMENT_TITLE
+# Remark.js snippets
 
 Version 1.0
 
 .footnote[
-TODO_AUTHOR_NAME ([TODO_AUTHOR_WEB_SITE](http://TODO_AUTHOR_WEB_SITE))
+Jérémie DECOCK ([www.jdhp.org](http://www.jdhp.org))
 ]
 
 ---
