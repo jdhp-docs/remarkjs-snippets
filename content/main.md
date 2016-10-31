@@ -24,9 +24,9 @@ layout: false
 
 Blablabla...
 
-.center[![Logo](figs/python_logo.svg)]
+.center[![Logo](figs/logos/python/python.svg)]
 
-.center[<img src="figs/python_logo.svg" width="300">]
+.center[<img src="figs/logos/python/python.svg" width="300">]
 
 ???
 
