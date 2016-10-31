@@ -10,6 +10,8 @@
 * [ ] Use gitsubmodule to get the latest version of RemarkJS
 * [x] Use gitsubmodule for figs/logos
 * [x] Make a snippets document in a dedicated git repository
+* [ ] Add a hint about navigation usage on the title page
+* [ ] Improve SEO ?
 
 ## Snippets
 
