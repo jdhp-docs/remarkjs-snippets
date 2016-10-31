@@ -71,6 +71,91 @@ HTML based
 * `Markdown Presenter`_
 * `KeyDown`_
 
+Usage
+=====
+
+HTML embedded
+-------------
+
+::
+
+    <!DOCTYPE html>
+
+    <!---
+        Remark (License MIT)
+        - http://remarkjs.com
+        - https://github.com/gnab/remark/wiki
+        - https://github.com/gnab/remark
+    -->
+
+    <html>
+        <head>
+            <style type="text/css">
+                /* Slideshow styles */
+            </style>
+        </head>
+        <body>
+            <textarea id="source">
+    class: center, middle
+
+    # Title
+
+    ---
+
+    # Agenda
+
+    1. Introduction
+    2. Deep-dive
+    3. ...
+
+    ---
+
+    # Introduction
+
+            </textarea>
+
+            <script src="http://remarkjs.com/downloads/remark-latest.min.js"> </script>
+            <!-- Offline version : <script src="remark.js"> </script> -->
+
+            <script>
+                var slideshow = remark.create();
+            </script>
+        </body>
+    </html>
+
+External file
+-------------
+
+::
+
+    <!DOCTYPE html>
+
+    <!---
+        Remark (License MIT)
+        - http://remarkjs.com
+        - https://github.com/gnab/remark/wiki
+        - https://github.com/gnab/remark
+    -->
+
+    <html>
+        <head>
+            <style type="text/css">
+                /* Slideshow styles */
+            </style>
+        </head>
+        <body>
+            <script src="http://remarkjs.com/downloads/remark-latest.min.js"> </script>
+            <!-- Offline version : <script src="remark.js"> </script> -->
+
+            <script>
+                var slideshow = remark.create({
+                    sourceUrl: 'slides.md'
+                });
+            </script>
+        </body>
+    </html>
+
+
 
 .. _S5: http://meyerweb.com/eric/tools/s5/
 .. _Reveal.js: https://github.com/hakimel/reveal.js/
