@@ -32,7 +32,7 @@ class: center, middle
 
 <br />
 
-.center[<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="figs/cc_by_sa.svg" width="200"></a>]
+.center[<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="figs/logos/cc_by_sa.svg" width="200"></a>]
 
 .licence[
 This document is provided under the terms and conditions of the<br />
