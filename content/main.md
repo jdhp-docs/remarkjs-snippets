@@ -12,17 +12,25 @@ Version 1.0
 Jérémie DECOCK ([www.jdhp.org](http://www.jdhp.org))
 ]
 
+???
+
+Slide 1 notes...
+
 ---
 
 layout: false
 
 ## Slide title
 
-content...
+Blablabla...
+
+.center[![Logo](figs/python_logo.svg)]
+
+.center[<img src="figs/python_logo.svg" width="300">]
 
 ???
 
-notes...
+Slide 2 notes...
 
 ---
 
